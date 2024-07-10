@@ -50,24 +50,9 @@ The **To-Do List Web App** is a simple yet powerful task management application 
    git clone https://github.com/your-username/to-do-list-app.git
    ```
 
-2. Install dependencies:
-   ```
-   cd to-do-list-app
-   npm install
-   ```
-
-3. Set up environment variables (e.g., MongoDB connection string, Firebase config).
 
 4. Run the app:
    ```
-   npm run dev
+   open with live server or directly open index.html file in browser
    ```
 
-## Contributions
-Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements.
-
-Happy organizing! 🚀
-
----
-
-Feel free to customize this description according to your project's specifics. Good luck with your To-Do List Web App! 😊📝🌟# To-do-list
