@@ -50,9 +50,7 @@ The **To-Do List Web App** is a simple yet powerful task management application 
    git clone https://github.com/your-username/to-do-list-app.git
    ```
 
-
-4. Run the app:
-   ```
-   open with live server or directly open index.html file in browser
-   ```
+2. Run the app:
+   - Open `index.html` in your web browser.
+   - Enter a city name and click the search button to view weather information.
 
